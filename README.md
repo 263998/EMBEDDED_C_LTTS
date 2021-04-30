@@ -1,5 +1,5 @@
 
 
-## Temperature using button sensor and led actuator using Atmega328
+## Temperature indication using button sensor, heater, temperature sensor, led actuator and Atmega328
 
 
